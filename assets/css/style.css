@@ -1098,6 +1098,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     float: right;
 }
 
+.text-right-desktop {
+    text-align: right;
+}
+
 .float-left {
     float: left;
 }

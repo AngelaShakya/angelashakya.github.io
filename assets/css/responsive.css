@@ -117,6 +117,10 @@
 /*max-width:991px*/
 
 @media screen and (max-width:768px) {
+	.text-right-desktop {
+		text-align: left;
+	}
+
 	.float-right-desktop {
 		float: left;
 	}
