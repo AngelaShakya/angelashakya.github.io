@@ -867,6 +867,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .clients {
     padding-top: 50px;
+    overflow-x: hidden;
 }
 
 .clients-area {
