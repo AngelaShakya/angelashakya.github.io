@@ -453,6 +453,9 @@ nav.navbar.bootsnav .navbar-toggle i {
 .single-horizontal-timeline .experience-time h3 {
     text-transform: capitalize;
 }
+.experience-time img{
+    height: 250px;
+}
 
 .single-horizontal-timeline .experience-time h3 span {
     text-transform: lowercase;
